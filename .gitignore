@@ -1,0 +1,14 @@
+# Compiled firmware / build output (regenerate by compiling triage/triage.ino)
+build/
+**/build/
+.pio/
+*.bin
+*.elf
+*.map
+*.o
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+~$*.docx

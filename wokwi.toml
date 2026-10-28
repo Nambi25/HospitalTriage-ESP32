@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/triage.ino.merged.bin'
+elf = 'build/triage.ino.elf'
+rfc2217ServerPort = 4000

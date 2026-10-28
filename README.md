@@ -78,9 +78,11 @@ Board: ESP32 DevKit C v4. Serial monitor runs at 115200 baud.
 
 ![Implementation flow](flow.png)
 
+
 ## Case Study Report
 
-See [ED_Patient_Triage_Queue_Case_Study.docx](ED_Patient_Triage_Queue_Case_Study.docx).
+- 📄 [Read the report (PDF)](https://github.com/Nambi25/HospitalTriage-ESP32/blob/main/ED_Patient_Triage_Queue_Case_Study.pdf)
+- 📝 [Download Word version](https://github.com/Nambi25/HospitalTriage-ESP32/raw/main/ED_Patient_Triage_Queue_Case_Study.docx)
 
 ## Future Work
 

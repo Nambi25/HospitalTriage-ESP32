@@ -8,10 +8,10 @@ An ESP32 nurse-station prototype that manages an emergency-department waiting qu
 
 | Name | Roll No. | Role |
 |------|----------|------|
-| [Hanshith D] | [CB.SC.U4CSE25616] | Firmware / data structures |
-| [Nambi Prasanna B] | [CB.SC.U4CSE25641] | Hardware integration (keypad, LCD, LEDs, buzzer) |
-| [Baru Venkata Abhinav] | [CB.SC.U4CSE25607] | UX state machine and KPI dashboard |
-| [Shashank Sivakumar] | [CB.SC.U4CSE25655] | Persistent log / Serial nurse-station report |
+| Hanshith D | CB.SC.U4CSE25616 | Firmware / data structures |
+| Nambi Prasanna B | CB.SC.U4CSE25641 | Hardware integration (keypad, LCD, LEDs, buzzer) |
+| Baru Venkata Abhinav | CB.SC.U4CSE25607 | UX state machine and KPI dashboard |
+| Shashank Sivakumar | CB.SC.U4CSE25655 | Persistent log / Serial nurse-station report |
 
 ## Features
 
